@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="025e5804-8a9b-46d8-99fa-8ea6cacfde48" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Cu7n3PWUMAAYSOG.jpg" afterPath="$PROJECT_DIR$/file/nota/Cu7n3PWUMAAYSOG.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 12-07-44.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 12-07-44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 23-48-54.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 23-48-54.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 23-58-05.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-27 23-58-05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-28 14-28-57.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-28 14-28-57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-28 15-19-09.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-02-28 15-19-09.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/Screenshot from 2017-03-08 16-35-38.png" afterPath="$PROJECT_DIR$/file/nota/Screenshot from 2017-03-08 16-35-38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/WhatsApp Image 2017-02-23 at 2.04.56 PM.jpeg" afterPath="$PROJECT_DIR$/file/nota/WhatsApp Image 2017-02-23 at 2.04.56 PM.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/WhatsApp Image 2017-03-10 at 8.29.41 AM.jpeg" afterPath="$PROJECT_DIR$/file/nota/WhatsApp Image 2017-03-10 at 8.29.41 AM.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/cc.png" afterPath="$PROJECT_DIR$/file/nota/cc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/error.png" afterPath="$PROJECT_DIR$/file/nota/error.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/ini.png" afterPath="$PROJECT_DIR$/file/nota/ini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/lara.png" afterPath="$PROJECT_DIR$/file/nota/lara.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/nota/onchange.png" afterPath="$PROJECT_DIR$/file/nota/onchange.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.chained.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.chained.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/logout.php" afterPath="$PROJECT_DIR$/auth/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db_material.sql" afterPath="$PROJECT_DIR$/db_material.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/content.php" afterPath="$PROJECT_DIR$/layout/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/header.php" afterPath="$PROJECT_DIR$/layout/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/menu.php" afterPath="$PROJECT_DIR$/layout/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/barang/pakai.php" afterPath="$PROJECT_DIR$/modul/barang/pakai.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/barang/pemakaian.php" afterPath="$PROJECT_DIR$/modul/barang/pemakaian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/barang/stok.php" afterPath="$PROJECT_DIR$/modul/barang/stok.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/belanja/crud.php" afterPath="$PROJECT_DIR$/modul/belanja/crud.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/belanja/form-belanja.php" afterPath="$PROJECT_DIR$/modul/belanja/form-belanja.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/belanja/satuan.php" afterPath="$PROJECT_DIR$/modul/belanja/satuan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/controlunit/crud-rekap.php" afterPath="$PROJECT_DIR$/modul/controlunit/crud-rekap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/controlunit/detail.php" afterPath="$PROJECT_DIR$/modul/controlunit/detail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/controlunit/input-rap.php" afterPath="$PROJECT_DIR$/modul/controlunit/input-rap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/controlunit/list-rekap.php" afterPath="$PROJECT_DIR$/modul/controlunit/list-rekap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/controlunit/rekap.php" afterPath="$PROJECT_DIR$/modul/controlunit/rekap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/pengguna/crud-pengguna.php" afterPath="$PROJECT_DIR$/modul/pengguna/crud-pengguna.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/pengguna/form-pengguna.php" afterPath="$PROJECT_DIR$/modul/pengguna/form-pengguna.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/pengguna/pengguna.php" afterPath="$PROJECT_DIR$/modul/pengguna/pengguna.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modul/toko/crud.php" afterPath="$PROJECT_DIR$/modul/toko/crud.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layout/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding>
+                <marker date="1489878427150" expanded="true" signature="615:635" ph="SELECT * FRO... proyek" />
+                <marker date="1489878427150" expanded="true" signature="1265:1285" ph="SELECT * FRO... proyek" />
+                <marker date="1489878427150" expanded="true" signature="1914:1934" ph="SELECT * FRO... proyek" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/layout/menu.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="30" />
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-beta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-beta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-beta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-beta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="025e5804-8a9b-46d8-99fa-8ea6cacfde48" name="Default" comment="" />
+      <created>1489878348108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489878348108</updated>
+      <workItem from="1489878351185" duration="149000" />
+      <workItem from="1489968872474" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="264000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layout/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489878427150" expanded="true" signature="615:635" ph="SELECT * FRO... proyek" />
+            <marker date="1489878427150" expanded="true" signature="1265:1285" ph="SELECT * FRO... proyek" />
+            <marker date="1489878427150" expanded="true" signature="1914:1934" ph="SELECT * FRO... proyek" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <marker date="1489878427150" expanded="true" signature="615:635" ph="SELECT * FRO... proyek" />
+            <marker date="1489878427150" expanded="true" signature="1265:1285" ph="SELECT * FRO... proyek" />
+            <marker date="1489878427150" expanded="true" signature="1914:1934" ph="SELECT * FRO... proyek" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
