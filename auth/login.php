@@ -31,7 +31,7 @@ else
           });
          },10);
          window.setTimeout(function(){
-          window.location.replace('/upah-system/auth');
+          window.location.replace('/auth');
 
          } ,3000);
     </script>
