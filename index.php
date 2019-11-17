@@ -4,7 +4,6 @@
 //  header('location:auth/');
 //} else {
   include 'config/db.php';
-  include 'config/function.php';
   include 'layout/header.php';
   include 'layout/menu.php';
   include 'layout/content.php';

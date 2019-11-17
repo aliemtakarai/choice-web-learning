@@ -1,5 +1,4 @@
 <?php
-error_reporting('true'); 
 session_start();
 if (empty($_SESSION['username'])) {
     header('location:auth/');
@@ -86,7 +85,7 @@ if (empty($_SESSION['username'])) {
               <li class="dropdown">
                 <a data-toggle="dropdown" class="dropdown-toggle" href="#"><?php echo $_SESSION['username'] ?><b class="caret"></b></a>
                 <ul role="menu" class="dropdown-menu">
-                  <li ><a href="/auth/logout.php">
+                  <li ><a href="/choice-web-learning/auth/logout.php">
                       Logout
                   </a></li>
                 </ul>
